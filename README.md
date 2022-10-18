@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+DevOps Specialist (I like SRE), I also write some articles on https://dev.to/lboix
 <!--
 **lboix/lboix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
